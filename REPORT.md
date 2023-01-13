@@ -177,3 +177,8 @@ Given the chosen architecture and parameters, the results are :
 This agent has been trained on a local PC with Ubuntu 18.04.6
 
 ![DDPG algorithm](./images/Misc.png)
+
+
+### Video
+
+https://youtu.be/LjDHi-eN_J0
