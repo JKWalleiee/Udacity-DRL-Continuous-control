@@ -70,6 +70,12 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 For more information check the REPORT.md.
 
+
+### Video
+
+https://youtu.be/LjDHi-eN_J0
+
+
 ### (Optional) Challenge: Crawler Environment
 
 After you have successfully completed the project, you might like to solve the more difficult **Crawler** environment.
